@@ -1,0 +1,90 @@
+[
+    {
+        "username": "1superadmin", 
+        "password": "supersecret"
+    },
+    {
+        "username": "superadmin", 
+        "password": "1supersecret"
+    },
+    {
+        "username": "1superadmin", 
+        "password": "1supersecret"
+    },
+    {
+        "username": "",          
+        "password": "supersecret"
+    },
+    {
+        "username": "superadmin", 
+        "password": ""            
+    },
+    {
+        "username": "", 
+        "password": ""                 
+    },
+    {
+        "username": "    ", 
+        "password": "supersecret"                 
+    },
+    {
+        "username": "superadmin", 
+        "password": "    "               
+    },
+    {
+        "username": "    ",      
+        "password": "    "                 
+    },
+    {
+        "username": "SUPERADMIN",      
+        "password": "supersecret"                 
+    },
+    {
+        "username": "superadmin",      
+        "password": "SUPERSECRET"               
+    },
+    {
+        "username": "SUPERADMIN",      
+        "password": "SUPERSECRET"               
+    },
+    {
+        "username": "SELECT * FROM users WHERE email = $_POST[’email’] AND password = md5($_POST[‘password’]);",      
+        "password": "supersecret"               
+    },
+    {
+        "username": "superadmin",      
+        "password": "SELECT * FROM users WHERE email = $_POST[’email’] AND password = md5($_POST[‘password’]);"               
+    },
+    {
+        "username": "SELECT * FROM users WHERE email = $_POST[’email’] AND password = md5($_POST[‘password’]);",      
+        "password": "SELECT * FROM users WHERE email = $_POST[’email’] AND password = md5($_POST[‘password’]);"               
+    },
+    {
+        "username": "javascript:alert(‘Executed!’);",     
+        "password": "supersecret"               
+    },
+    {
+        "username": "superadmin",      
+        "password": "javascript:alert(‘Executed!’);"               
+    },
+    {
+        "username": "javascript:alert(‘Executed!’);",     
+        "password": "javascript:alert(‘Executed!’);"               
+    },
+    {
+        "username": "admin", 
+        "password": "admin"               
+    },
+    {
+        "username": "ыгзукфвьшт", 
+        "password": "supersecret"               
+    },
+    {
+        "username": "superadmin", 
+        "password": "ыгзукыускуе"               
+    },
+    {
+        "username": "ыгзукфвьшт", 
+        "password": "ыгзукыускуе"               
+    }
+]
